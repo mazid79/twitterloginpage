@@ -25,4 +25,5 @@ Contributions: We welcome contributions from the open-source community to improv
 
 Note: This project is purely for educational purposes and is not intended for commercial use or any unauthorized activities related to Twitter.
 It serves as a demonstration of web development skills and is not associated with Twitter Inc. in any way.
-![login page](https://github.com/mazid79/twitterloginpage/assets/122568589/94aad14f-dac0-4baf-bc6e-a531efa2e19c)
+![twitter](https://github.com/mazid79/twitterloginpage/assets/122568589/791f63a7-048f-4f5a-b8d9-10d4295fdab3)
+
